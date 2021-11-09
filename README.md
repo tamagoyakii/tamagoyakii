@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tamagoyakii/tamagoyakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## tamagoyakii 🥚
+<div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamagoyakii&count_bg=%2372C4F1&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+	
+</div>
 
-### ✏ I learned in...
+### 📫 How to reach me
+ 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rlawlgus2588@gmail.com)](mailto:rlawlgus2588@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@tamagoyakii)](https://velog.io/@tamagoyakii)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)
+<div align=center></div>
+
+### ✏ Education
 + BFA in Sculpture, Hongik University
 + 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 + 42Seoul Cadet (21/11/08 ~ )
