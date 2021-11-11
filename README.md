@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)
 <div align=center></div>
 
-### ✏ Education
+### ✏ Keep Learning...
 + BFA in Sculpture, Hongik University
 + 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 + 42Seoul Cadet (21/11/08 ~ )
 
 [![jihyukim's 42 stats](https://badge42.herokuapp.com/api/stats/jihyukim)](https://github.com/JaeSeoKim/badge42)
 
-### 🛠 Skills 
+### 🛠 Tech Stack 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white&textColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=#61DAFB"/>
