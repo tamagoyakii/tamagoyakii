@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rlawlgus2588@gmail.com)](mailto:rlawlgus2588@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@tamagoyakii)](https://velog.io/@tamagoyakii)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)
+<!--[![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)-->
 <div align=center></div>
 
 ### ✏ Keep Learning...
