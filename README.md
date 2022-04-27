@@ -11,7 +11,11 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 + BFA in Sculpture, Hongik University
 + 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 + 42Seoul Cadet (21/11/08 ~ )
-<!-- [![jihyukim's 42 stats](https://badge42.herokuapp.com/api/stats/jihyukim)](https://github.com/JaeSeoKim/badge42) -->
+<div>
+	<a href="https://github.com/JaeSeoKim/badge42">
+		<img src="https://badge42.vercel.app/api/v2/cl2homogo003109mkmr1rier6/stats?cursusId=21&coalitionId=86" alt="jihyukim's 42 stats" />
+	</a>
+</div>
 
 ## Things I code with
 <p>
@@ -23,6 +27,7 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 	<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/C-5358AE?style=for-the-badge&logo=C&logoColor=white&textColor=white"/>
+	<img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=Figma&logoColor=white&textColor=white"/>
 </p>
 
 <!-- ## Projects
