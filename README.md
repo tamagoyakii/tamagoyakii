@@ -1,10 +1,10 @@
-# tamagoyakii
+<!-- # tamagoyakii -->
 <!-- <div align=end>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamagoyakii&count_bg=%2372C4F1&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
  -->
-## Welcome!
+# Welcome!
 I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul.kr/seoul42/main/view">42Seoul</a>.
 
 ## My traces
