@@ -25,6 +25,7 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/styled components-C46A87?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
 	<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+	</br>
 	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/C-5358AE?style=for-the-badge&logo=C&logoColor=white&textColor=white"/>
 	<img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=Figma&logoColor=white&textColor=white"/>
