@@ -20,14 +20,19 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 ## Things I code with
 <p>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/typescript-3D63B4?style=for-the-badge&logo=typescript&logoColor=white"> 
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/styled components-C46A87?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
-	<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-	<img src="https://img.shields.io/badge/C-5358AE?style=for-the-badge&logo=C&logoColor=white&textColor=white"/>
-	<img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=Figma&logoColor=white&textColor=white"/>
+	<img src="https://img.shields.io/badge/Typescript-3D63B4?style=for-the-badge&logo=typescript&logoColor=white"> 
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/styled components-C46A87?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/C-5358AE?style=for-the-badge&logo=C&logoColor=white&textColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=Figma&logoColor=white&textColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon AWS-252F3D?style=for-the-badge&logo=AmazonAWS&logoColor=DF9545"/>
+	
+	
 </p>
 
 <!-- ## Projects
