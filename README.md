@@ -4,10 +4,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamagoyakii&count_bg=%2372C4F1&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
  -->
-# Welcome!
+# 😸 Welcome!😸
 I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul.kr/seoul42/main/view">42Seoul</a>.
 
-## My traces
+</br>
+
+## 🐾 My traces
 + BFA in Sculpture, Hongik University
 + 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 + 42Seoul Cadet (21/11/08 ~ )
@@ -17,7 +19,9 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 	</a>
 </div>
 
-## Things I code with
+</br>
+
+## 🛠️ Things I code with
 <p>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Typescript-3D63B4?style=for-the-badge&logo=typescript&logoColor=white"> 
@@ -40,7 +44,9 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 |:---:|:---:|:---:|:---:|:---:|
 |<a href="https://github.com/blind-42/42byte">42byte</a>|<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blind-42/42byte?style=for-the-badge">|||||| -->
 
-## My posts
+</br>
+
+## 🗒️ My posts
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlawlgus2588@gmail.com)](mailto:rlawlgus2588@gmail.com) -->
 [![Velog Badge](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tamagoyakii)](https://velog.io/@tamagoyakii)
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)-->
