@@ -1,18 +1,18 @@
-<!-- # tamagoyakii -->
-<!-- <div align=end>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamagoyakii&count_bg=%2372C4F1&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-</div>
- -->
+<div align="center">
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFDA41,100:FFCD00&height=215&section=header&text=tamagoyaki&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=62)
+	 -->
+<!--[Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamagoyakii&count_bg=%2372C4F1&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)-->
+
 # 😸 Welcome!😸
 I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul.kr/seoul42/main/view">42Seoul</a>.
 
 </br>
 
 ## 🐾 My traces
-+ BFA in Sculpture, Hongik University
-+ 42Seoul La Piscine (21/09/06 ~ 21/10/01)
-+ 42Seoul Cadet (21/11/08 ~ )
+BFA in Sculpture, Hongik University</br>
+42Seoul La Piscine (21/09/06 ~ 21/10/01)</br>
+42Seoul Cadet (21/11/08 ~ )
 <div>
 	<a href="https://github.com/JaeSeoKim/badge42">
 		<img src="https://badge42.vercel.app/api/v2/cl2homogo003109mkmr1rier6/stats?cursusId=21&coalitionId=86" alt="jihyukim's 42 stats" />
@@ -28,7 +28,7 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-        <img src="https://img.shields.io/badge/styled components-C46A87?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+        <img src="https://img.shields.io/badge/styled components-C46A87?style=for-the-badge&logo=styledcomponents&logoColor=white"></br>
         <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -51,3 +51,4 @@ I'm Jihyun Kim from South Korea, currently a student at <a href="https://42seoul
 [![Velog Badge](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tamagoyakii)](https://velog.io/@tamagoyakii)
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)-->
 
+</div>
