@@ -21,22 +21,40 @@ BFA in Sculpture, Hongik University</br>
 
 </br>
 
-## 🛠️ Things I code with
+## 🛠️ Skill
+### Language
 <p>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Typescript-3D63B4?style=for-the-badge&logo=typescript&logoColor=white"> 
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white&textColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&textColor=white"/>
+ 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Typescript-3D63B4?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+### Framework/Library
+<p>
+	<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=black"/>
+ 	<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</p>
+
+### Markup
+<p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-        <img src="https://img.shields.io/badge/styled components-C46A87?style=for-the-badge&logo=styledcomponents&logoColor=white"></br>
-        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/C-5358AE?style=for-the-badge&logo=C&logoColor=white&textColor=white"/>
-        <img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=Figma&logoColor=white&textColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon AWS-252F3D?style=for-the-badge&logo=AmazonAWS&logoColor=DF9545"/>
-	
-	
+        <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"></br>
+</p>
+
+### Tool
+
+<p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white&textColor=white"/>
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=DF9545"/>
 </p>
 
 <!-- ## Projects
@@ -48,7 +66,7 @@ BFA in Sculpture, Hongik University</br>
 
 ## 🗒️ My posts
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlawlgus2588@gmail.com)](mailto:rlawlgus2588@gmail.com) -->
-[![Velog Badge](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@tamagoyakii)](https://velog.io/@tamagoyakii)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@tamagoyakii)](https://velog.io/@tamagoyakii)
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/__tamagoyaki)](https://www.instagram.com/__tamagoyaki)-->
 
 </div>
